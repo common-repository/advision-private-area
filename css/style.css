@@ -1,0 +1,59 @@
+.adv_pvt_welcome_user {
+    background-color: #51a6c8;
+    color: #fff;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.adv_pvt_welcome_user i.fa.fa-user {
+    margin-right: 8px;
+}
+.adv_pvt_title, .adv_pvt_login_title, .adv_pvt_create_account {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed';
+    font-weight: 800;
+    border-bottom-style: double;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.adv_pvt_date, .adv_pvt_login_text, .adv_pvt_registration_text {
+    font-size: 14px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.adv_pvt_attached_document {
+    margin-top: 20px;
+}
+.adv_pvt_attached_document {
+    margin: 25px 0px 40px;
+}
+.adv_pvt_attached_document a, p.login-submit input[type="submit"] {
+    background-color: #51a6c8;
+    padding: 10px 25px;
+    border-radius: 7px;
+    color: #fff;
+    border: none;
+    text-transform: uppercase;
+}
+.adv_pvt_attached_document a:hover, p.login-submit input[type="submit"]:hover {
+    background-color: #212934;
+    color: #fff;
+}
+
+.adv_pvt_login_title_reserved_area {
+    background-color: #212934;
+    color: #fff;
+    padding: 10px 25px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.adv_pvt_div_form {
+    display: inline-flex;
+    width: 100%;
+}
+.adv_pvt_login_form, .adv_pvt_registration_form {
+    width: 100%;
+    margin: 10px;
+}

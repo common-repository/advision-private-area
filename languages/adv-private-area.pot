@@ -1,0 +1,205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Advision Private Area\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-11 22:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: adv-private-area"
+
+#: adv-private-area.php:53
+msgid "Add New"
+msgstr ""
+
+#: adv-private-area.php:47
+msgctxt "Add New on Toolbar"
+msgid "Private Area"
+msgstr ""
+
+#: adv-private-area.php:52
+msgid "Add New Private Area"
+msgstr ""
+
+#: adv-private-area.php:46
+msgctxt "Admin Menu text"
+msgid "Private Areas"
+msgstr ""
+
+#. Name of the plugin
+msgid "Advision Private Area"
+msgstr ""
+
+#: adv-private-area.php:51
+msgid "All Private Areas"
+msgstr ""
+
+#: adv-private-area.php:309
+msgid "Content"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:43
+msgid "Download Document"
+msgstr ""
+
+#: adv-private-area.php:55
+msgid "Edit Private Area"
+msgstr ""
+
+#: adv-private-area.php:62
+msgid "Featured Image"
+msgstr ""
+
+#: adv-private-area.php:70
+msgid "Filter Private Areas list"
+msgstr ""
+
+#: adv-private-area.php:66
+msgid "Insert into Private Area"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:58
+msgid "Log in to access your reserved area"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:57
+msgid "Login"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marco Pappalardo"
+msgstr ""
+
+#: adv-private-area.php:54
+msgid "New Private Area"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:46
+msgid "No content avalaible."
+msgstr ""
+
+#: adv-private-area.php:60
+msgid "Not found"
+msgstr ""
+
+#: adv-private-area.php:61
+msgid "Not found in Trash"
+msgstr ""
+
+#: adv-private-area.php:50
+msgid "Parent Private Area:"
+msgstr ""
+
+#: adv-private-area.php:44
+msgctxt "Post Type General Name"
+msgid "Private Areas"
+msgstr ""
+
+#: adv-private-area.php:45
+msgctxt "Post Type Singular Name"
+msgid "Private Area"
+msgstr ""
+
+#: adv-private-area.php:412
+msgid "Preview Document Attached"
+msgstr ""
+
+#: adv-private-area.php:73
+msgid "Private Area"
+msgstr ""
+
+#: adv-private-area.php:48
+msgid "Private Area Archives"
+msgstr ""
+
+#: adv-private-area.php:49
+msgid "Private Area Attributes"
+msgstr ""
+
+#: adv-private-area.php:68
+msgid "Private Areas list"
+msgstr ""
+
+#: adv-private-area.php:69
+msgid "Private Areas list navigation"
+msgstr ""
+
+#: adv-private-area.php:64
+msgid "Remove featured image"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:53
+msgid "Reserved Area"
+msgstr ""
+
+#: adv-private-area.php:59
+msgid "Search Private Area"
+msgstr ""
+
+#: adv-private-area.php:63
+msgid "Set featured image"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This Plugin allow you to get a private area for each user of your website."
+msgstr ""
+
+#: adv-private-area.php:74
+msgid "This Post Type create all the dashboard for each user into web site"
+msgstr ""
+
+#: adv-private-area.php:56
+msgid "Update Private Area"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:40
+msgid "Uploaded on "
+msgstr ""
+
+#: adv-private-area.php:67
+msgid "Uploaded to this Private Area"
+msgstr ""
+
+#: adv-private-area.php:65
+msgid "Use as featured image"
+msgstr ""
+
+#: adv-private-area.php:171
+msgid "User Detail"
+msgstr ""
+
+#: adv-private-area.php:57
+msgid "View Private Area"
+msgstr ""
+
+#: adv-private-area.php:58
+msgid "View Private Areas"
+msgstr ""
+
+#: templates/template_adv_privatearea.php:13
+msgid "Welcome, "
+msgstr ""
+
+#. URI of the plugin
+msgid "www.advisionplus.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "www.marcopappalardo.it"
+msgstr ""
+
+#: adv-private-area.php:411
+msgid "You already Attached a document."
+msgstr ""
+
+msgid "Attached Content to display on font-end."
+msgstr ""
